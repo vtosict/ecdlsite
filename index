@@ -1,0 +1,18 @@
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+<title>Computers</title>
+</head>
+<body>
+<h1>Computer Systems</h1>
+<h2>Desktop Computers</h2>
+<p>A desktop computer is a personal computer intended for use at a
+single location.</p>
+<img src="pictures/computer.jpg" alt="A Computer">
+<h2>Laptop Computers</h2>
+<p>A laptop computer is a personal computer for mobile use.</p>
+<p>A laptop integrates the typical components of a desktop computer.<br>
+This includes a display, a keyboard, a pointing device</p>
+<p>This is a <a href="http//www.google.com">link to Google</a></p>
+</body>
+</html>
